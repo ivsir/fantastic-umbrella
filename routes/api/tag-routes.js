@@ -46,12 +46,12 @@ router.post("/", async (req, res) => {
 router.put("/:id", async (req, res) => {
   // update a tag's name by its `id` value
   try {
-    const categoryData = await Category.update({
+    const tagData = await Tag.update({
       where: {
         id: req.params.id
       }
     });
-    res.status(200).json(categoryData);
+    res.status(200).json(tagData);
   } catch (err) {
     res.status(400).json(err);
   }
