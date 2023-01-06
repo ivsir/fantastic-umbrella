@@ -25,6 +25,11 @@ It serves as the backend for an ecommerce site called fantastic umbrella. Curren
 ## Usage
 <p>Refer to the video for demonstration.</p>
 
+
+https://user-images.githubusercontent.com/106352994/210946244-4df906df-2f53-4d8e-aae2-233f65606c0b.mov
+
+
+
 ## Credits
 Risvi Tareq
 
